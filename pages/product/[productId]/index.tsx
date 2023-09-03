@@ -1,8 +1,8 @@
-import { NextRouter, useRouter } from 'next/router'
+import { useRouter } from 'next/router'
 import React from 'react'
 
 export default function ProductDetials() {
-    const router: NextRouter = useRouter();
+    const router = useRouter();
     const productId = router.query.productId;
 
     return (
