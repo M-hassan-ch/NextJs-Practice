@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Hassan",
+            "grade": 11
+        },
+        {
+            "id": 2,
+            "name": "gary",
+            "grade": 12
+        },
+        {
+            "id": 3,
+            "name": "stuart",
+            "grade": 11
+        }
+    ]
+}
